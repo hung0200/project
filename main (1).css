@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px){
+    p.col-md-1{
+        display: none;
+    }
+    p.col-md-4{
+        font-weight: bold;
+    }
+    .col-md-1 .h-100{
+        display: flex;
+        font-size:50px;
+    }
+    #education i,#experience i{
+        display: none;
+    }
+}
+
